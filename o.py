@@ -1,4 +1,4 @@
 a=12
 b=18
 c=a+b
-print(c)
+print(c+10)
